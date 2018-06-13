@@ -1,1 +1,2 @@
-echo "hello" > /home/scrapbook/tutorial/hello.txt
+apt install -y nginx
+service nginx start
